@@ -1,15 +1,21 @@
 AI Log Dosyası
 
-16 Ekim Görevi
+Tarih: 16 Ekim
 
-Yapay zekâya sorduğum soru:
+Görev: Üniversite Öğrencileri İçin Görev Takip Uygulaması
 
-Üniversite öğrencileri için bir görev takip uygulaması yapmak istiyorum. Temel HTML ve CSS bilgim var. Backend kullanmadan, yalnızca Local Storage ile çalışacak bu proje için hangi özellikleri eklemeliyim?
+Yapay Zekâya Sorduğum Soru
 
-Verdiği cevap:
+Üniversite öğrencileri için bir görev takip uygulaması yapmak istiyorum. Temel HTML ve CSS bilgim var. Backend kullanmadan, yalnızca Local Storage ile çalışacak bu proje için hangi özellikleri eklemeliyim? Projenin kapsamını daraltarak temel özellikleri belirlememe yardımcı olur musun?
 
-İlk aşamada projeyi basit tutmam önerildi. Görev ekleme, görevleri listeleme, tamamlanan görevleri işaretleme ve görev silme özellikleriyle başlamam önerildi. Görevlerin tarayıcı kapatılıp açıldığında da saklanması için Local Storage kullanabileceğim açıklandı.
+Yapay Zekânın Verdiği Cevap
 
-Bu cevabı nasıl kullandım?
+Yapay zekâ, projenin ilk aşamada basit tutulmasını önerdi. Başlangıç için görev ekleme, görevleri listeleme, görev silme ve tamamlanan görevleri işaretleme özellikleri belirlendi. Ayrıca görev bilgilerinin tarayıcı kapatılıp açıldığında da korunabilmesi için Local Storage kullanılması önerildi. Projenin ilerleyen aşamalarında görevleri düzenleme, ders adı ekleme, son teslim tarihi belirleme ve öncelik seçme gibi özelliklerin eklenebileceği açıklandı.
 
-Projemin kapsamını daraltmak ve başlangıçta hangi özellikleri geliştireceğime karar vermek için bu cevaptan yararlandım. Öncelikle temel görev ekleme, listeleme, silme ve tamamlama özelliklerini yapmayı planladım. Böylece backend kullanmadan HTML, CSS ve JavaScript bilgilerimi geliştirmeyi hedefledim.
+Bu Cevabı Nasıl Kullandım?
+
+Yapay zekânın önerilerinden projemin kapsamını daraltmak ve ilk aşamada geliştireceğim özellikleri belirlemek için yararlandım. Öncelikle görev ekleme, listeleme, silme ve tamamlanma durumunu değiştirme özelliklerine odaklanmaya karar verdim. Backend kullanmadan HTML, CSS ve JavaScript teknolojilerini, Local Storage ile veri saklamayı ve GitHub kullanımını öğrenmeyi hedefledim.
+
+Sonuç
+
+Yapay zekâdan aldığım öneriler, projemin temel özelliklerini belirlememe ve geliştirme sürecini daha planlı hâle getirmeme yardımcı oldu.
